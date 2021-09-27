@@ -1,4 +1,4 @@
-## Pair of functions that cache the inverse of a matrix
+## Functions that cache the inverse of a matrix
 ## How to use: Pass the result of a "makeCacheMatrix" function call to "cacheSolve" function
 
 #' Util function that set the matrix and the inverse in an environment
